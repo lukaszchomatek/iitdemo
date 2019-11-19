@@ -1,0 +1,12 @@
+ Volume in drive D is Nowy
+ Volume Serial Number is 165E-2084
+
+ Directory of D:\Projects\I1\dydaktyka\moje przedmioty\IIT\gitdemo\iitdemo
+
+19.11.2019  14:42    <DIR>          .
+19.11.2019  14:42    <DIR>          ..
+19.11.2019  14:42                 0 file.txt
+19.11.2019  14:28             1ÿ071 LICENSE
+19.11.2019  14:39                77 README.md
+               3 File(s)          1ÿ148 bytes
+               2 Dir(s)  112ÿ665ÿ956ÿ352 bytes free
